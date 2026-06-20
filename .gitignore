@@ -1,0 +1,17 @@
+# Virtual Environment
+.venv-flipkart/
+.venv/
+venv/
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+
+# Data Folders
+data/
+Dataset/
+
+# CatBoost Files
+catboost_info/
